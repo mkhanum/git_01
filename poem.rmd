@@ -19,6 +19,12 @@ you, if you change any of this the git program will notice it and compromise you
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+Snow falling and night falling fast, oh, fast  
+In a field I looked into going past,  
+And the ground almost covered smooth in snow,  
+But a few weeds and stubble showing last.  
+The woods around it have it--it is theirs.  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
